@@ -1,0 +1,7 @@
+{
+  "name": "르네상스 (Renaissance) - 배리어프리 AI 플랫폼",
+  "description": "노인과 장애인이 차별 없이 살아갈 수 있는 세상을 만드는 AI 기반 배리어프리 플랫폼 르네상스. 서비스 소개, AI 접근성 도구, 참여형 커뮤니티 공간 및 천안시 배리어프리 지도 제공.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
